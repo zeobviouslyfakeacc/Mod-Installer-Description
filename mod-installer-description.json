@@ -57,15 +57,15 @@
 			]
 		}, {
 			"name": "HungerRevamped",
-			"version": "v1.2",
-			"releaseDate": "2018-07-22",
+			"version": "v1.3",
+			"releaseDate": "2018-09-03",
 			"description": "Improves the hunger system by separating hunger and stored calories.",
 			"url": "https://github.com/zeobviouslyfakeacc/HungerRevamped",
-			"changes": "Fixed maximum hunger bar calories in custom experience modes",
+			"changes": "Switched to Hinterland's JSON parser as a precaution and to fix a rare bug.",
 			"dependencies": [],
 			"assets": [
 				{
-					"url": "https://github.com/zeobviouslyfakeacc/HungerRevamped/releases/download/v1.2/HungerRevamped.dll"
+					"url": "https://github.com/zeobviouslyfakeacc/HungerRevamped/releases/download/v1.3/HungerRevamped.dll"
 				}
 			]
 		}, {
