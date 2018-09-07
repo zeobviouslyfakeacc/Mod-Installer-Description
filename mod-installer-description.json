@@ -18,11 +18,11 @@
 			]
 		}, {
 			"name": "CacheControl",
-			"version": "v1.0",
-			"releaseDate": "2018-09-07",
+			"version": "v1.1",
+			"releaseDate": "2018-09-08",
 			"description": "Lets you decide how many Prepper Caches should spawn in custom mode games.",
 			"url": "https://github.com/zeobviouslyfakeacc/CacheControl",
-			"changes": "",
+			"changes": "Added a command to reroll active caches in existing (even non-custom) save files.",
 			"dependencies": [
 				{
 					"name": "ModSettings",
@@ -31,7 +31,7 @@
 			],
 			"assets": [
 				{
-					"url": "https://github.com/zeobviouslyfakeacc/CacheControl/releases/download/v1.0/CacheControl.dll"
+					"url": "https://github.com/zeobviouslyfakeacc/CacheControl/releases/download/v1.1/CacheControl.dll"
 				}
 			]
 		}, {
