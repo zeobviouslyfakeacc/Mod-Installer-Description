@@ -88,15 +88,15 @@
 			]
 		}, {
 			"name": "InterloperRegionSelection",
-			"version": "v1.0",
-			"releaseDate": "2018-07-29",
+			"version": "v1.1",
+			"releaseDate": "2018-09-09",
 			"description": "Lets you select the spawn region in Interloper mode.",
 			"url": "https://github.com/zeobviouslyfakeacc/InterloperRegionSelection",
-			"changes": "",
+			"changes": "Fixed a visual bug in the Interloper region selection screen that would occur when the last selected region did not have a spawn point in Interloper mode (and thus wasn't in the list)",
 			"dependencies": [],
 			"assets": [
 				{
-					"url": "https://github.com/zeobviouslyfakeacc/InterloperRegionSelection/releases/download/v1.0/InterloperRegionSelection.dll"
+					"url": "https://github.com/zeobviouslyfakeacc/InterloperRegionSelection/releases/download/v1.1/InterloperRegionSelection.dll"
 				}
 			]
 		}, {
