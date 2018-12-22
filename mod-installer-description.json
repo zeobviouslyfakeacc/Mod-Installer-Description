@@ -5,72 +5,72 @@
 	"releases": [
 		{
 			"name": "BreakDownCans",
-			"version": "v1.0",
-			"releaseDate": "2018-08-27",
+			"version": "v1.1",
+			"releaseDate": "2018-12-22",
 			"description": "A tiny mod that lets your break down a recycled can for a single piece of scrap metal.",
 			"url": "https://github.com/zeobviouslyfakeacc/BreakDownCans",
-			"changes": "",
+			"changes": "Updated for TLD v1.41",
 			"dependencies": [],
 			"assets": [
 				{
-					"url": "https://github.com/zeobviouslyfakeacc/BreakDownCans/releases/download/v1.0/BreakDownCans.dll"
+					"url": "https://github.com/zeobviouslyfakeacc/BreakDownCans/releases/download/v1.1/BreakDownCans.dll"
 				}
 			]
 		}, {
 			"name": "CacheControl",
-			"version": "v1.2",
-			"releaseDate": "2018-10-13",
+			"version": "v1.3",
+			"releaseDate": "2018-12-22",
 			"description": "Lets you decide how many Prepper Caches should spawn in custom mode games.",
 			"url": "https://github.com/zeobviouslyfakeacc/CacheControl",
-			"changes": "Add a new spawning algorithm where each cache has a specified chance of spawning, various fixes to the force_reroll_caches command",
+			"changes": "Updated for TLD v1.41",
 			"dependencies": [
 				{
 					"name": "ModSettings",
-					"version": "^v1.3"
+					"version": "^v1.4"
 				}
 			],
 			"assets": [
 				{
-					"url": "https://github.com/zeobviouslyfakeacc/CacheControl/releases/download/v1.2/CacheControl.dll"
+					"url": "https://github.com/zeobviouslyfakeacc/CacheControl/releases/download/v1.3/CacheControl.dll"
 				}
 			]
 		}, {
 			"name": "DisableBreathEffect",
-			"version": "v1.1",
-			"releaseDate": "2018-03-21",
+			"version": "v1.2",
+			"releaseDate": "2018-12-22",
 			"description": "Removes the annoying 2D breath cloud that appears every few seconds when it's cold.",
-			"url": "https://github.com/zeobviouslyfakeacc/MiniMods",
-			"changes": "",
+			"url": "https://github.com/zeobviouslyfakeacc/DisableBreathEffect",
+			"changes": "Updated for TLD v1.41",
 			"dependencies": [],
 			"assets": [
 				{
-					"url": "https://github.com/zeobviouslyfakeacc/MiniMods/releases/download/v1.1/DisableBreathEffect.dll"
+					"url": "https://github.com/zeobviouslyfakeacc/DisableBreathEffect/releases/download/v1.2/DisableBreathEffect.dll"
 				}
 			]
 		}, {
 			"name": "EnableFeatProgressInCustomMode",
-			"version": "v1.0",
-			"releaseDate": "2018-04-10",
-			"description": "The v1.29 update turned off Feat progress in custom mode games - this mod turns it back on.",
+			"version": "v1.1",
+			"releaseDate": "2018-12-22",
+			"description": "The v1.29 update turned off feat progress in custom mode games - this mod turns it back on.",
 			"url": "https://github.com/zeobviouslyfakeacc/EnableFeatProgressInCustomMode",
-			"changes": "",
+			"changes": "Updated for TLD v1.41",
 			"dependencies": [],
 			"assets": [
 				{
-					"url": "https://github.com/zeobviouslyfakeacc/EnableFeatProgressInCustomMode/releases/download/v1.0/EnableFeatProgressInCustomMode.dll"
+					"url": "https://github.com/zeobviouslyfakeacc/EnableFeatProgressInCustomMode/releases/download/v1.1/EnableFeatProgressInCustomMode.dll"
 				}
 			]
 		}, {
 			"name": "EnableStatusBarPercentages",
-			"version": "v1.1",
-			"releaseDate": "2018-03-21",
-			"description": "This mod re-enables some labels in the status / first aid screen that show a percentage value of how full the warmth, fatigue, thirst and hunger status bars are.",
-			"url": "https://github.com/zeobviouslyfakeacc/MiniMods",
-			"changes": "",
+			"version": "v1.2",
+			"releaseDate": "2018-12-22",
+			"description": "This mod re-enables some labels in the status / first aid screen that show a percentage value of how full the warmth, fatigue, thirst, hunger, and health status bars are.",
+			"url": "https://github.com/zeobviouslyfakeacc/EnableStatusBarPercentages",
+			"changes": "Updated for TLD v1.41, added health condition percentage label",
 			"dependencies": [],
 			"assets": [
 				{
-					"url": "https://github.com/zeobviouslyfakeacc/MiniMods/releases/download/v1.1/EnableStatusBarPercentages.dll"
+					"url": "https://github.com/zeobviouslyfakeacc/EnableStatusBarPercentages/releases/download/v1.2/EnableStatusBarPercentages.dll"
 				}
 			]
 		}, {
@@ -88,15 +88,15 @@
 			]
 		}, {
 			"name": "InterloperRegionSelection",
-			"version": "v1.1",
-			"releaseDate": "2018-09-09",
+			"version": "v1.2",
+			"releaseDate": "2018-12-22",
 			"description": "Lets you select the spawn region in Interloper mode.",
 			"url": "https://github.com/zeobviouslyfakeacc/InterloperRegionSelection",
-			"changes": "Fixed a visual bug in the Interloper region selection screen that would occur when the last selected region did not have a spawn point in Interloper mode (and thus wasn't in the list)",
+			"changes": "Updated for TLD v1.41",
 			"dependencies": [],
 			"assets": [
 				{
-					"url": "https://github.com/zeobviouslyfakeacc/InterloperRegionSelection/releases/download/v1.1/InterloperRegionSelection.dll"
+					"url": "https://github.com/zeobviouslyfakeacc/InterloperRegionSelection/releases/download/v1.2/InterloperRegionSelection.dll"
 				}
 			]
 		}, {
@@ -114,46 +114,48 @@
 			]
 		}, {
 			"name": "RememberBreakDownItem",
-			"version": "v1.1",
-			"releaseDate": "2018-03-21",
+			"version": "v1.2",
+			"releaseDate": "2018-12-22",
 			"description": "This mod remembers the tool you last used to break down furniture. That way, you no longer need to constantly switch from \"using a knife\" to \"no tool\" when breaking down branches or curtains.",
-			"url": "https://github.com/zeobviouslyfakeacc/MiniMods",
-			"changes": "",
+			"url": "https://github.com/zeobviouslyfakeacc/RememberBreakDownItem",
+			"changes": "Updated for TLD v1.41",
 			"dependencies": [],
 			"assets": [
 				{
-					"url": "https://github.com/zeobviouslyfakeacc/MiniMods/releases/download/v1.1/RememberBreakDownItem.dll"
+					"url": "https://github.com/zeobviouslyfakeacc/RememberBreakDownItem/releases/download/v1.2/RememberBreakDownItem.dll"
 				}
 			]
 		}, {
 			"name": "ShorterReadingIntervals",
-			"version": "v1.0",
-			"releaseDate": "2018-09-08",
+			"version": "v1.1",
+			"releaseDate": "2018-12-22",
 			"description": "A mod that lets you research for shorter amounts of time and lets you interrupt research at any time without losing progress.",
 			"url": "https://github.com/zeobviouslyfakeacc/ShorterReadingIntervals",
-			"changes": "",
+			"changes": "Updated for TLD v1.41",
 			"dependencies": [
 				{
 					"name": "ModSettings",
-					"version": "^v1.1"
+					"version": "^v1.4"
 				}
 			],
 			"assets": [
 				{
-					"url": "https://github.com/zeobviouslyfakeacc/ShorterReadingIntervals/releases/download/v1.0/ShorterReadingIntervals.dll"
+					"url": "https://github.com/zeobviouslyfakeacc/ShorterReadingIntervals/releases/download/v1.1/ShorterReadingIntervals.dll"
 				}
 			]
 		}, {
 			"name": "WildlifeBegone",
-			"version": "v1.1",
-			"releaseDate": "2018-03-21",
+			"version": "v1.2",
+			"releaseDate": "2018-12-22",
 			"description": "This mod removes most of the animals that would usually roam the world and greatly increases their respawn times, thus making you play The Long Dark quite a bit differently.",
-			"url": "https://github.com/zeobviouslyfakeacc/MiniMods",
-			"changes": "",
+			"url": "https://github.com/zeobviouslyfakeacc/WildlifeBegone",
+			"changes": "Updated for TLD v1.41",
 			"dependencies": [],
 			"assets": [
 				{
-					"url": "https://github.com/zeobviouslyfakeacc/MiniMods/releases/download/v1.1/WildlifeBegone.dll"
+					"url": "https://github.com/zeobviouslyfakeacc/WildlifeBegone/releases/download/v1.2/WildlifeBegone.dll"
+				}, {
+					"url": "https://github.com/zeobviouslyfakeacc/WildlifeBegone/releases/download/v1.2/WildlifeBegoneConfig.json"
 				}
 			]
 		}
