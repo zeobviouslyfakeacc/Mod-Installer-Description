@@ -163,17 +163,17 @@
 			]
 		}, {
 			"name": "WildlifeBegone",
-			"version": "v1.2",
-			"releaseDate": "2018-12-22",
+			"version": "v1.3",
+			"releaseDate": "2018-12-29",
 			"description": "This mod removes most of the animals that would usually roam the world and greatly increases their respawn times, thus making you play The Long Dark quite a bit differently.",
 			"url": "https://github.com/zeobviouslyfakeacc/WildlifeBegone",
-			"changes": "Updated for TLD v1.41",
+			"changes": "Added setting to enable WildlifeBegone in story mode",
 			"dependencies": [],
 			"assets": [
 				{
-					"url": "https://github.com/zeobviouslyfakeacc/WildlifeBegone/releases/download/v1.2/WildlifeBegone.dll"
+					"url": "https://github.com/zeobviouslyfakeacc/WildlifeBegone/releases/download/v1.3/WildlifeBegone.dll"
 				}, {
-					"url": "https://github.com/zeobviouslyfakeacc/WildlifeBegone/releases/download/v1.2/WildlifeBegoneConfig.json"
+					"url": "https://github.com/zeobviouslyfakeacc/WildlifeBegone/releases/download/v1.3/WildlifeBegoneConfig.json"
 				}
 			]
 		}
