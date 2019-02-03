@@ -93,15 +93,15 @@
 			]
 		}, {
 			"name": "HungerRevamped",
-			"version": "v1.4",
-			"releaseDate": "2019-01-05",
+			"version": "v1.4.1",
+			"releaseDate": "2019-02-03",
 			"description": "Improves the hunger system by separating hunger and stored calories.",
 			"url": "https://github.com/zeobviouslyfakeacc/HungerRevamped",
-			"changes": "Updated for TLD v1.41, added incubation period to food poisoning, integrated Well Fed bonus",
+			"changes": "Reduced food poisoning damage while sleeping",
 			"dependencies": [],
 			"assets": [
 				{
-					"url": "https://github.com/zeobviouslyfakeacc/HungerRevamped/releases/download/v1.4/HungerRevamped.dll"
+					"url": "https://github.com/zeobviouslyfakeacc/HungerRevamped/releases/download/v1.4.1/HungerRevamped.dll"
 				}
 			]
 		}, {
