@@ -80,15 +80,15 @@
 			]
 		}, {
 			"name": "EnableStatusBarPercentages",
-			"version": "v1.3",
-			"releaseDate": "2018-12-23",
+			"version": "v1.4",
+			"releaseDate": "2019-06-02",
 			"description": "This mod re-enables some labels in the status / first aid screen that show a percentage value of how full the warmth, fatigue, thirst, hunger, and health status bars are.",
 			"url": "https://github.com/zeobviouslyfakeacc/EnableStatusBarPercentages",
-			"changes": "Fix condition label position when well fed buff is active",
+			"changes": "Fixed the position of the percentage labels",
 			"dependencies": [],
 			"assets": [
 				{
-					"url": "https://github.com/zeobviouslyfakeacc/EnableStatusBarPercentages/releases/download/v1.3/EnableStatusBarPercentages.dll"
+					"url": "https://github.com/zeobviouslyfakeacc/EnableStatusBarPercentages/releases/download/v1.4/EnableStatusBarPercentages.dll"
 				}
 			]
 		}, {
