@@ -93,15 +93,15 @@
 			]
 		}, {
 			"name": "HungerRevamped",
-			"version": "v1.5",
-			"releaseDate": "2019-06-02",
+			"version": "v1.6",
+			"releaseDate": "2019-11-10",
 			"description": "Improves the hunger system by separating hunger and stored calories.",
 			"url": "https://github.com/zeobviouslyfakeacc/HungerRevamped",
-			"changes": "Replaced the missing hunger icon texture in the status screen",
+			"changes": "Added custom mode settings, changed the hunger bar visuals, wake up the player when they contract food poisoning while sleeping",
 			"dependencies": [],
 			"assets": [
 				{
-					"url": "https://github.com/zeobviouslyfakeacc/HungerRevamped/releases/download/v1.5/HungerRevamped.dll"
+					"url": "https://github.com/zeobviouslyfakeacc/HungerRevamped/releases/download/v1.6/HungerRevamped.dll"
 				}
 			]
 		}, {
