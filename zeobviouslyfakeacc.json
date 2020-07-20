@@ -219,6 +219,27 @@
 				"notes":""
 			}
 		},{
+			"name":"FasterSearching",
+			"author":"<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
+			"authorURL":"-",
+			"version":"1.1",
+			"updated":"2020-07-20",
+			"description":"Speeds up the search action on containers and makes searching instant for empty containers.",
+			"modURL":"https://github.com/zeobviouslyfakeacc/FasterSearching",
+			"downloadURL":"https://github.com/zeobviouslyfakeacc/FasterSearching/releases/download/v1.1/FasterSearching.dll",
+			"testedon":{
+				"tldversion":"1.82",
+				"mlversion":"0.2.4"
+			},
+			"dependencies":[
+				"ModSettings"
+			],
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},{
 			"name":"Free-Look-In-Cars",
 			"author":"<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
 			"authorURL":"-",
