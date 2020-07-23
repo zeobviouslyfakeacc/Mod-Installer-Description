@@ -181,6 +181,25 @@
 				"notes":""
 			}
 		},{
+			"name":"Ankle-Support",
+			"author":"<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
+			"authorURL":"-",
+			"version":"4.0.0",
+			"updated":"2020-07-23",
+			"description":"Protects your ankles and wrists from sprains based on the toughness value of your shoes / gloves.",
+			"modURL":"https://github.com/zeobviouslyfakeacc/Ankle-Support",
+			"downloadURL":"https://github.com/zeobviouslyfakeacc/Ankle-Support/releases/download/4.0.0/Ankle-Support.dll",
+			"testedon":{
+				"tldversion":"1.82",
+				"mlversion":"0.2.4"
+			},
+			"dependencies":[],
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},{
 			"name":"Disable-Camera-Sway",
 			"author":"<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
 			"authorURL":"-",
