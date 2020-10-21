@@ -143,6 +143,23 @@
 				"notes":""
 			}
 		},{
+			"name":"SaveImageFilter",
+			"version":"1.0",
+			"updated":"2020-10-21",
+			"description":"Saves and reloads your chosen image filter (Options > Display > Image Filter) instead of reverting to 'no filter' every time the game is restarted.",
+			"modURL":"https://github.com/zeobviouslyfakeacc/SaveImageFilter",
+			"downloadURL":"https://github.com/zeobviouslyfakeacc/SaveImageFilter/releases/download/v1.0/SaveImageFilter.dll",
+			"testedon":{
+				"tldversion":"1.83",
+				"mlversion":"0.2.7"
+			},
+			"dependencies":[],
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},{
 			"name":"ShorterReadingIntervals",
 			"version":"1.2",
 			"updated":"2020-06-30",
@@ -156,6 +173,23 @@
 			"dependencies":[
 				"ModSettings"
 			],
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},{
+			"name":"TinCanImprovements",
+			"version":"1.0",
+			"updated":"2020-10-21",
+			"description":"Allows you to craft 4 tin cans into 1 scrap metal, reduces the weight of tin cans to 0.05 kg, fixes a canned food item weight bug.",
+			"modURL":"https://github.com/zeobviouslyfakeacc/TinCanImprovements",
+			"downloadURL":"https://github.com/zeobviouslyfakeacc/TinCanImprovements/releases/download/v1.0/TinCanImprovements.dll",
+			"testedon":{
+				"tldversion":"1.83",
+				"mlversion":"0.2.7"
+			},
+			"dependencies":[],
 			"status":{
 				"working":true,
 				"issues":"",
