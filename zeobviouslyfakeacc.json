@@ -87,8 +87,8 @@
 				"ModSettings"
 			],
 			"status":{
-				"working":true,
-				"issues":"",
+				"working":false,
+				"issues":"May crash to desktop in TLD v1.86 and newer",
 				"notes":""
 			}
 		},{
