@@ -93,14 +93,14 @@
 			}
 		},{
 			"name":"InterloperRegionSelection",
-			"version":"1.4",
-			"updated":"2020-07-13",
+			"version":"1.5",
+			"updated":"2020-12-08",
 			"description":"This mod lets you select the spawn region in Interloper mode.",
 			"modURL":"https://github.com/zeobviouslyfakeacc/InterloperRegionSelection",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/InterloperRegionSelection/releases/download/v1.4/InterloperRegionSelection.dll",
+			"downloadURL":"https://github.com/zeobviouslyfakeacc/InterloperRegionSelection/releases/download/v1.5/InterloperRegionSelection.dll",
 			"testedon":{
-				"tldversion":"1.81",
-				"mlversion":"0.2.4"
+				"tldversion":"1.89",
+				"mlversion":"0.2.7"
 			},
 			"dependencies":[],
 			"status":{
