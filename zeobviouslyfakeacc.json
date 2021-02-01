@@ -237,14 +237,14 @@
 			"name":"Disable-Camera-Sway",
 			"author":"<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
 			"authorURL":"-",
-			"version":"2.0.0",
-			"updated":"2020-06-30",
+			"version":"2.1.0",
+			"updated":"2021-02-02",
 			"description":"Prevents the automatic camera rotation that happens when the player does not move their mouse for some time.",
 			"modURL":"https://github.com/zeobviouslyfakeacc/Disable-Camera-Sway",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/Disable-Camera-Sway/releases/download/2.0.0/Disable-Camera-Sway.dll",
+			"downloadURL":"https://github.com/zeobviouslyfakeacc/Disable-Camera-Sway/releases/download/2.1.0/Disable-Camera-Sway.dll",
 			"testedon":{
-				"tldversion":"1.79",
-				"mlversion":"0.2.3"
+				"tldversion":"1.93",
+				"mlversion":"0.2.7.4"
 			},
 			"dependencies":[],
 			"status":{
