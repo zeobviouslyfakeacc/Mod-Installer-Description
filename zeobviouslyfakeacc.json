@@ -196,7 +196,7 @@
 				"notes":""
 			}
 		},{
-			"name":"Developer-Console",
+			"name":"DeveloperConsole",
 			"author":"<a href='https://github.com/FINDarkside' target='_blank'>FINDarkside</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
 			"authorURL":"-",
 			"version":"1.2.1",
@@ -234,7 +234,7 @@
 				"notes":""
 			}
 		},{
-			"name":"Disable-Chromatic-Aberration",
+			"name":"DisableChromaticAberration",
 			"author":"<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
 			"authorURL":"-",
 			"version":"4.0.0",
@@ -274,7 +274,7 @@
 				"notes":""
 			}
 		},{
-			"name":"Free-Look-In-Cars",
+			"name":"FreeLookInCars",
 			"author":"<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
 			"authorURL":"-",
 			"version":"4.0.0",
