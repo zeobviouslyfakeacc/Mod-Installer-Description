@@ -161,14 +161,14 @@
 			}
 		},{
 			"name":"ShorterReadingIntervals",
-			"version":"1.2",
-			"updated":"2020-06-30",
+			"version":"1.3",
+			"updated":"2021-06-12",
 			"description":"A mod that lets you research for shorter amounts of time and lets you interrupt research at any time without losing progress.",
 			"modURL":"https://github.com/zeobviouslyfakeacc/ShorterReadingIntervals",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/ShorterReadingIntervals/releases/download/v1.2/ShorterReadingIntervals.dll",
+			"downloadURL":"https://github.com/zeobviouslyfakeacc/ShorterReadingIntervals/releases/download/v1.3/ShorterReadingIntervals.dll",
 			"testedon":{
-				"tldversion":"1.79",
-				"mlversion":"0.2.3"
+				"tldversion":"1.94",
+				"mlversion":"0.2.7.4"
 			},
 			"dependencies":[
 				"ModSettings"
