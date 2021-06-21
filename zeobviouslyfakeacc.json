@@ -74,14 +74,14 @@
 			}
 		},{
 			"name":"HungerRevamped",
-			"version":"1.8",
-			"updated":"2020-12-22",
+			"version":"1.9",
+			"updated":"2021-06-21",
 			"description":"Improves the hunger system by separating hunger and stored calories.",
 			"modURL":"https://github.com/zeobviouslyfakeacc/HungerRevamped",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/HungerRevamped/releases/download/v1.8/HungerRevamped.dll",
+			"downloadURL":"https://github.com/zeobviouslyfakeacc/HungerRevamped/releases/download/v1.9/HungerRevamped.dll",
 			"testedon":{
-				"tldversion":"1.92",
-				"mlversion":"0.2.7.4"
+				"tldversion":"1.94",
+				"mlversion":"0.4.0"
 			},
 			"dependencies":[
 				"ModSettings"
