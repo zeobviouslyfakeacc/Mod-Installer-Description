@@ -196,6 +196,30 @@
 				"notes":""
 			}
 		},{
+			"name": "TLD-Bugfixes",
+			"aliases":[],
+			"author": "<a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+			"authorURL": "",
+			"version": "2.0.1",
+			"updated": "2021-07-30",
+			"description": "This mod fixes some old bugs and known exploits in *The Long Dark*.",
+			"modURL": "https://github.com/zeobviouslyfakeacc/TLD-Bugfixes",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/TLD-Bugfixes/releases/download/2.0.1/TLD-Bugfixes.dll",
+			"testedon": {
+				"tldversion": "1.94",
+				"mlversion": "0.4.3.0"
+			},
+			"dependencies": [],
+			"updater":{
+				"enable":true,
+				"downloads":[]
+			},
+			"status": {
+				"working": true,
+				"issues": "",
+				"notes": ""
+			}
+		},{
 			"name":"DeveloperConsole",
 			"author":"<a href='https://github.com/FINDarkside' target='_blank'>FINDarkside</a>, <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>, and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 			"authorURL":"-",
