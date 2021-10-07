@@ -110,14 +110,14 @@
 			}
 		},{
 			"name":"ModSettings",
-			"version":"1.8",
-			"updated":"2021-04-11",
+			"version":"1.8.1",
+			"updated":"2021-10-07",
 			"description":"Lets other mods display their settings in-game. This mod doesn't do anything on its own and should only be used as a dependency for other mods.",
 			"modURL":"https://github.com/zeobviouslyfakeacc/ModSettings",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/ModSettings/releases/download/v1.8/ModSettings.dll",
+			"downloadURL":"https://github.com/zeobviouslyfakeacc/ModSettings/releases/download/v1.8.1/ModSettings.dll",
 			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.4.0.0"
+				"tldversion":"1.95",
+				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[],
 			"status":{
