@@ -10,8 +10,8 @@
 			"modURL":"https://github.com/zeobviouslyfakeacc/CacheControl",
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/CacheControl/releases/download/v1.4/CacheControl.dll",
 			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.4.0.0"
+				"tldversion":"1.97",
+				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[
 				"ModSettings"
