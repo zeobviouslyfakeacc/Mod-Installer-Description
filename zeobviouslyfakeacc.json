@@ -57,14 +57,14 @@
 			}
 		},{
 			"name":"EnableStatusBarPercentages",
-			"version":"1.5",
-			"updated":"2020-06-30",
+			"version":"1.6",
+			"updated":"2021-10-31",
 			"description":"This mod re-enables some labels in the status / first aid screen that show a percentage value of how full the warmth, fatigue, thirst, hunger, and health status bars are.",
 			"modURL":"https://github.com/zeobviouslyfakeacc/EnableStatusBarPercentages",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/EnableStatusBarPercentages/releases/download/v1.5/EnableStatusBarPercentages.dll",
+			"downloadURL":"https://github.com/zeobviouslyfakeacc/EnableStatusBarPercentages/releases/download/v1.6/EnableStatusBarPercentages.dll",
 			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.4.0.0"
+				"tldversion":"1.97",
+				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[],
 			"status":{
@@ -74,14 +74,14 @@
 			}
 		},{
 			"name":"HungerRevamped",
-			"version":"1.9",
-			"updated":"2021-06-21",
+			"version":"1.10",
+			"updated":"2021-10-31",
 			"description":"Improves the hunger system by separating hunger and stored calories.",
 			"modURL":"https://github.com/zeobviouslyfakeacc/HungerRevamped",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/HungerRevamped/releases/download/v1.9/HungerRevamped.dll",
+			"downloadURL":"https://github.com/zeobviouslyfakeacc/HungerRevamped/releases/download/v1.10/HungerRevamped.dll",
 			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.4.0.0"
+				"tldversion":"1.97",
+				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[
 				"ModSettings"
@@ -93,14 +93,14 @@
 			}
 		},{
 			"name":"InterloperRegionSelection",
-			"version":"1.5",
-			"updated":"2020-12-08",
+			"version":"1.6",
+			"updated":"2021-10-31",
 			"description":"This mod lets you select the spawn region in Interloper mode.",
 			"modURL":"https://github.com/zeobviouslyfakeacc/InterloperRegionSelection",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/InterloperRegionSelection/releases/download/v1.5/InterloperRegionSelection.dll",
+			"downloadURL":"https://github.com/zeobviouslyfakeacc/InterloperRegionSelection/releases/download/v1.6/InterloperRegionSelection.dll",
 			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.4.0.0"
+				"tldversion":"1.97",
+				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[],
 			"status":{
