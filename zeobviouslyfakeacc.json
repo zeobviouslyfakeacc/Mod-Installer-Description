@@ -29,7 +29,7 @@
 			"modURL":"https://github.com/zeobviouslyfakeacc/DisableBreathEffect",
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/DisableBreathEffect/releases/download/v1.3/DisableBreathEffect.dll",
 			"testedon":{
-				"tldversion":"1.94",
+				"tldversion":"1.97",
 				"mlversion":"0.4.0.0"
 			},
 			"dependencies":[],
@@ -46,7 +46,7 @@
 			"modURL":"https://github.com/zeobviouslyfakeacc/EnableFeatProgressInCustomMode",
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/EnableFeatProgressInCustomMode/releases/download/v1.2/EnableFeatProgressInCustomMode.dll",
 			"testedon":{
-				"tldversion":"1.94",
+				"tldversion":"1.97",
 				"mlversion":"0.4.0.0"
 			},
 			"dependencies":[],
@@ -229,7 +229,7 @@
 			"modURL":"https://github.com/FINDarkside/TLD-Developer-Console",
 			"downloadURL":"https://github.com/FINDarkside/TLD-Developer-Console/releases/download/1.4.0/DeveloperConsole.dll",
 			"testedon":{
-				"tldversion":"1.94",
+				"tldversion":"1.97",
 				"mlversion":"0.4.0.0"
 			},
 			"dependencies":[],
@@ -248,7 +248,7 @@
 			"modURL":"https://github.com/zeobviouslyfakeacc/Disable-Camera-Sway",
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/Disable-Camera-Sway/releases/download/2.1.0/Disable-Camera-Sway.dll",
 			"testedon":{
-				"tldversion":"1.94",
+				"tldversion":"1.97",
 				"mlversion":"0.4.0.0"
 			},
 			"dependencies":[],
@@ -267,7 +267,7 @@
 			"modURL":"https://github.com/zeobviouslyfakeacc/Disable-Chromatic-Aberration",
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/Disable-Chromatic-Aberration/releases/download/4.0.0/Disable-Chromatic-Aberration.dll",
 			"testedon":{
-				"tldversion":"1.94",
+				"tldversion":"1.97",
 				"mlversion":"0.4.0.0"
 			},
 			"dependencies":[],
@@ -307,7 +307,7 @@
 			"modURL":"https://github.com/zeobviouslyfakeacc/Free-Look-In-Cars",
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/Free-Look-In-Cars/releases/download/4.0.0/Free-Look-In-Cars.dll",
 			"testedon":{
-				"tldversion":"1.94",
+				"tldversion":"1.97",
 				"mlversion":"0.4.0.0"
 			},
 			"dependencies":[],
