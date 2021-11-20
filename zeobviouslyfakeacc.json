@@ -30,7 +30,7 @@
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/DisableBreathEffect/releases/download/v1.3/DisableBreathEffect.dll",
 			"testedon":{
 				"tldversion":"1.97",
-				"mlversion":"0.4.0.0"
+				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[],
 			"status":{
@@ -47,7 +47,7 @@
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/EnableFeatProgressInCustomMode/releases/download/v1.2/EnableFeatProgressInCustomMode.dll",
 			"testedon":{
 				"tldversion":"1.97",
-				"mlversion":"0.4.0.0"
+				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[],
 			"status":{
@@ -116,7 +116,7 @@
 			"modURL":"https://github.com/zeobviouslyfakeacc/ModSettings",
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/ModSettings/releases/download/v1.8.1/ModSettings.dll",
 			"testedon":{
-				"tldversion":"1.95",
+				"tldversion":"1.97",
 				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[],
@@ -133,8 +133,8 @@
 			"modURL":"https://github.com/zeobviouslyfakeacc/RememberBreakDownItem",
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/RememberBreakDownItem/releases/download/v1.3.1/RememberBreakDownItem.dll",
 			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.4.0.0"
+				"tldversion":"1.97",
+				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[],
 			"status":{
@@ -151,7 +151,7 @@
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/SaveImageFilter/releases/download/v1.0/SaveImageFilter.dll",
 			"testedon":{
 				"tldversion":"1.94",
-				"mlversion":"0.4.0.0"
+				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[],
 			"status":{
@@ -168,7 +168,7 @@
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/ShorterReadingIntervals/releases/download/v1.3/ShorterReadingIntervals.dll",
 			"testedon":{
 				"tldversion":"1.94",
-				"mlversion":"0.4.0.0"
+				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[
 				"ModSettings"
@@ -187,7 +187,7 @@
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/TinCanImprovements/releases/download/v1.0/TinCanImprovements.dll",
 			"testedon":{
 				"tldversion":"1.94",
-				"mlversion":"0.4.0.0"
+				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[],
 			"status":{
@@ -230,7 +230,7 @@
 			"downloadURL":"https://github.com/FINDarkside/TLD-Developer-Console/releases/download/1.4.0/DeveloperConsole.dll",
 			"testedon":{
 				"tldversion":"1.97",
-				"mlversion":"0.4.0.0"
+				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[],
 			"status":{
@@ -249,7 +249,7 @@
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/Disable-Camera-Sway/releases/download/2.1.0/Disable-Camera-Sway.dll",
 			"testedon":{
 				"tldversion":"1.97",
-				"mlversion":"0.4.0.0"
+				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[],
 			"status":{
@@ -268,7 +268,7 @@
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/Disable-Chromatic-Aberration/releases/download/4.0.0/Disable-Chromatic-Aberration.dll",
 			"testedon":{
 				"tldversion":"1.97",
-				"mlversion":"0.4.0.0"
+				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[],
 			"status":{
@@ -286,8 +286,8 @@
 			"modURL":"https://github.com/zeobviouslyfakeacc/FasterSearching",
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/FasterSearching/releases/download/v1.1/FasterSearching.dll",
 			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.4.0.0"
+				"tldversion":"1.97",
+				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[
 				"ModSettings"
@@ -308,7 +308,7 @@
 			"downloadURL":"https://github.com/zeobviouslyfakeacc/Free-Look-In-Cars/releases/download/4.0.0/Free-Look-In-Cars.dll",
 			"testedon":{
 				"tldversion":"1.97",
-				"mlversion":"0.4.0.0"
+				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[],
 			"status":{
