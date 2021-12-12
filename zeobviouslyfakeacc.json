@@ -4,13 +4,13 @@
 	"mods":[
 		{
 			"name":"CacheControl",
-			"version":"1.4",
-			"updated":"2020-06-30",
+			"version":"1.5",
+			"updated":"2021-12-12",
 			"description":"Lets you decide how many Prepper Caches should spawn in custom mode games.",
 			"modURL":"https://github.com/zeobviouslyfakeacc/CacheControl",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/CacheControl/releases/download/v1.4/CacheControl.dll",
+			"downloadURL":"https://github.com/zeobviouslyfakeacc/CacheControl/releases/download/v1.5/CacheControl.dll",
 			"testedon":{
-				"tldversion":"1.97",
+				"tldversion":"1.98",
 				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[
