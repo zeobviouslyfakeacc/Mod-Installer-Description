@@ -223,14 +223,14 @@
 			"name":"DeveloperConsole",
 			"author":"<a href='https://github.com/FINDarkside' target='_blank'>FINDarkside</a>, <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>, and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 			"authorURL":"-",
-			"version":"1.4.0",
-			"updated":"2021-06-02",
+			"version":"1.5.0",
+			"updated":"2022-12-25",
 			"description":"A mod that makes Hinterland's developer console accessible in-game. F1 to open / close the console, type 'help' to get a list of commands.",
 			"modURL":"https://github.com/FINDarkside/TLD-Developer-Console",
-			"downloadURL":"https://github.com/FINDarkside/TLD-Developer-Console/releases/download/1.4.0/DeveloperConsole.dll",
+			"downloadURL":"https://github.com/FINDarkside/TLD-Developer-Console/releases/download/1.5.0/DeveloperConsole.dll",
 			"testedon":{
-				"tldversion":"1.97",
-				"mlversion":"0.4.3.0"
+				"tldversion":"2.06",
+				"mlversion":"0.6.0.0"
 			},
 			"dependencies":[],
 			"status":{
