@@ -1,321 +1,593 @@
 {
-	"author":"zeobviouslyfakeacc",
-	"authorURL":"https://github.com/zeobviouslyfakeacc",
-	"mods":[
+	"version": "2",
+	"author": "zeobviouslyfakeacc",
+	"authorURL": "https://github.com/zeobviouslyfakeacc",
+	"supportURL": "",
+	"mods": [
 		{
-			"name":"CacheControl",
-			"version":"1.5",
-			"updated":"2021-12-12",
-			"description":"Lets you decide how many Prepper Caches should spawn in custom mode games.",
-			"modURL":"https://github.com/zeobviouslyfakeacc/CacheControl",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/CacheControl/releases/download/v1.5/CacheControl.dll",
-			"testedon":{
-				"tldversion":"1.98",
-				"mlversion":"0.4.3.0"
-			},
-			"dependencies":[
+			"type": "mod",
+			"version": "1.5",
+			"name": "CacheControl",
+			"displayName": "Cache Control",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2018-09-07",
+			"updated": "2021-12-12",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/CacheControl/releases/download/v1.5/CacheControl.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/CacheControl",
+			"description": "Lets you decide how many Prepper Caches should spawn in custom mode games.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
 				"ModSettings"
 			],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"DisableBreathEffect",
-			"version":"1.3",
-			"updated":"2020-06-30",
-			"description":"Removes the annoying 2D breath cloud that appears every few seconds when it's cold.",
-			"modURL":"https://github.com/zeobviouslyfakeacc/DisableBreathEffect",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/DisableBreathEffect/releases/download/v1.3/DisableBreathEffect.dll",
-			"testedon":{
-				"tldversion":"1.97",
-				"mlversion":"0.4.3.0"
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
-			"dependencies":[],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"EnableFeatProgressInCustomMode",
-			"version":"1.2",
-			"updated":"2020-06-30",
-			"description":"The v1.29 update turned off feat progress in custom mode games - this mod turns it back on.",
-			"modURL":"https://github.com/zeobviouslyfakeacc/EnableFeatProgressInCustomMode",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/EnableFeatProgressInCustomMode/releases/download/v1.2/EnableFeatProgressInCustomMode.dll",
-			"testedon":{
-				"tldversion":"1.97",
-				"mlversion":"0.4.3.0"
+			"testedon": {
+				"tldversion": "1.98",
+				"mlversion": "0.4.3.0"
 			},
-			"dependencies":[],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"EnableStatusBarPercentages",
-			"version":"1.6",
-			"updated":"2021-10-31",
-			"description":"This mod re-enables some labels in the status / first aid screen that show a percentage value of how full the warmth, fatigue, thirst, hunger, and health status bars are.",
-			"modURL":"https://github.com/zeobviouslyfakeacc/EnableStatusBarPercentages",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/EnableStatusBarPercentages/releases/download/v1.6/EnableStatusBarPercentages.dll",
-			"testedon":{
-				"tldversion":"1.97",
-				"mlversion":"0.4.3.0"
+			"updater": {
+				"enable": true,
+				"downloads": []
 			},
-			"dependencies":[],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"HungerRevamped",
-			"version":"1.10",
-			"updated":"2021-10-31",
-			"description":"Improves the hunger system by separating hunger and stored calories.",
-			"modURL":"https://github.com/zeobviouslyfakeacc/HungerRevamped",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/HungerRevamped/releases/download/v1.10/HungerRevamped.dll",
-			"testedon":{
-				"tldversion":"1.97",
-				"mlversion":"0.4.3.0"
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.3",
+			"name": "DisableBreathEffect",
+			"displayName": "Disable Breath Effect",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2017-07-05",
+			"updated": "2020-06-30",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/DisableBreathEffect/releases/download/v1.3/DisableBreathEffect.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/DisableBreathEffect",
+			"description": "Removes the annoying 2D breath cloud that appears every few seconds when it's cold.",
+			"tags": "",
+			"categories": [
+				"Graphics"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
-			"dependencies":[
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.2",
+			"name": "EnableFeatProgressInCustomMode",
+			"displayName": "Enable Feat Progress In Custom Mode",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2018-04-10",
+			"updated": "2020-06-30",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/EnableFeatProgressInCustomMode/releases/download/v1.2/EnableFeatProgressInCustomMode.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/EnableFeatProgressInCustomMode",
+			"description": "The v1.29 update turned off feat progress in custom mode games - this mod turns it back on.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.6",
+			"name": "EnableStatusBarPercentages",
+			"displayName": "Enable Status Bar Percentages",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2017-08-02",
+			"updated": "2021-10-31",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/EnableStatusBarPercentages/releases/download/v1.6/EnableStatusBarPercentages.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/EnableStatusBarPercentages",
+			"description": "This mod re-enables some labels in the status / first aid screen that show a percentage value of how full the warmth, fatigue, thirst, hunger, and health status bars are.",
+			"tags": "",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.10",
+			"name": "HungerRevamped",
+			"displayName": "Hunger Revamped",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2018-03-31",
+			"updated": "2021-10-31",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/HungerRevamped/releases/download/v1.10/HungerRevamped.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/HungerRevamped",
+			"description": "Improves the hunger system by separating hunger and stored calories.",
+			"tags": "",
+			"categories": [
+				"Gameplay",
+				"Overhaul"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
 				"ModSettings"
 			],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"InterloperRegionSelection",
-			"version":"1.7",
-			"updated":"2021-12-08",
-			"description":"This mod lets you select the spawn region in Interloper mode.",
-			"modURL":"https://github.com/zeobviouslyfakeacc/InterloperRegionSelection",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/InterloperRegionSelection/releases/download/v1.7/InterloperRegionSelection.dll",
-			"testedon":{
-				"tldversion":"1.98",
-				"mlversion":"0.4.3.0"
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
-			"dependencies":[],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"ModSettings",
-			"version":"1.9.0",
-			"updated":"2023-01-05",
-			"description":"Lets other mods display their settings in-game. This mod doesn't do anything on its own and should only be used as a dependency for other mods.",
-			"modURL":"https://github.com/zeobviouslyfakeacc/ModSettings",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/ModSettings/releases/download/1.9.0/ModSettings.dll",
-			"testedon":{
-				"tldversion":"2.06",
-				"mlversion":"0.6.0.0"
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
 			},
-			"dependencies":[],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"RememberBreakDownItem",
-			"version":"1.3.1",
-			"updated":"2020-07-13",
-			"description":"This mod remembers the tool you last used to break down objects such as branches or curtains to make the UI less annoying.",
-			"modURL":"https://github.com/zeobviouslyfakeacc/RememberBreakDownItem",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/RememberBreakDownItem/releases/download/v1.3.1/RememberBreakDownItem.dll",
-			"testedon":{
-				"tldversion":"1.97",
-				"mlversion":"0.4.3.0"
+			"updater": {
+				"enable": true,
+				"downloads": []
 			},
-			"dependencies":[],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"SaveImageFilter",
-			"version":"1.0",
-			"updated":"2020-10-21",
-			"description":"Saves and reloads your chosen image filter (Options > Display > Image Filter) instead of reverting to 'no filter' every time the game is restarted.",
-			"modURL":"https://github.com/zeobviouslyfakeacc/SaveImageFilter",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/SaveImageFilter/releases/download/v1.0/SaveImageFilter.dll",
-			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.4.3.0"
-			},
-			"dependencies":[],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"ShorterReadingIntervals",
-			"version":"1.3",
-			"updated":"2021-06-12",
-			"description":"A mod that lets you research for shorter amounts of time and lets you interrupt research at any time without losing progress.",
-			"modURL":"https://github.com/zeobviouslyfakeacc/ShorterReadingIntervals",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/ShorterReadingIntervals/releases/download/v1.3/ShorterReadingIntervals.dll",
-			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.4.3.0"
-			},
-			"dependencies":[
-				"ModSettings"
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.7",
+			"name": "InterloperRegionSelection",
+			"displayName": "Interloper Region Selection",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2018-07-29",
+			"updated": "2021-12-08",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/InterloperRegionSelection/releases/download/v1.7/InterloperRegionSelection.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/InterloperRegionSelection",
+			"description": "This mod lets you select the spawn region in Interloper mode.",
+			"tags": "",
+			"categories": [
+				"Quality of Life"
 			],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"TinCanImprovements",
-			"version":"1.0",
-			"updated":"2020-10-21",
-			"description":"Allows you to craft 4 tin cans into 1 scrap metal, reduces the weight of tin cans to 0.05 kg, fixes a canned food item weight bug.",
-			"modURL":"https://github.com/zeobviouslyfakeacc/TinCanImprovements",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/TinCanImprovements/releases/download/v1.0/TinCanImprovements.dll",
-			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.4.3.0"
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
-			"dependencies":[],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name": "TLD-Bugfixes",
-			"aliases":[],
-			"author": "<a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
-			"authorURL": "",
-			"version": "2.0.1",
-			"updated": "2021-07-30",
-			"description": "This mod fixes some old bugs and known exploits in *The Long Dark*.",
-			"modURL": "https://github.com/zeobviouslyfakeacc/TLD-Bugfixes",
-			"downloadURL": "https://github.com/zeobviouslyfakeacc/TLD-Bugfixes/releases/download/2.0.1/TLD-Bugfixes.dll",
+			"testedon": {
+				"tldversion": "1.98",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "library",
+			"version": "1.9.0",
+			"name": "ModSettings",
+			"displayName": "Mod Settings",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2018-06-18",
+			"updated": "2023-01-05",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/ModSettings/releases/download/1.9.0/ModSettings.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/ModSettings",
+			"description": "Lets other mods display their settings in-game. This mod doesn't do anything on its own and should only be used as a dependency for other mods.",
+			"tags": "",
+			"categories": [
+				"Utility Mod"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.06",
+				"mlversion": "0.6.0.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.3.1",
+			"name": "RememberBreakDownItem",
+			"displayName": "Remember Break Down Item",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2017-07-05",
+			"updated": "2020-07-13",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/RememberBreakDownItem/releases/download/v1.3.1/RememberBreakDownItem.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/RememberBreakDownItem",
+			"description": "This mod remembers the tool you last used to break down objects such as branches or curtains to make the UI less annoying.",
+			"tags": "",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0",
+			"name": "SaveImageFilter",
+			"displayName": "Save Image Filter",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2020-10-21",
+			"updated": "2020-10-21",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/SaveImageFilter/releases/download/v1.0/SaveImageFilter.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/SaveImageFilter",
+			"description": "Saves and reloads your chosen image filter (Options > Display > Image Filter) instead of reverting to 'no filter' every time the game is restarted.",
+			"tags": "",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
 			"testedon": {
 				"tldversion": "1.94",
 				"mlversion": "0.4.3.0"
 			},
-			"dependencies": [],
-			"updater":{
-				"enable":true,
-				"downloads":[]
+			"updater": {
+				"enable": true,
+				"downloads": []
 			},
-			"status": {
-				"working": true,
-				"issues": "",
-				"notes": ""
-			}
-		},{
-			"name":"DeveloperConsole",
-			"author":"<a href='https://github.com/FINDarkside' target='_blank'>FINDarkside</a>, <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>, and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
-			"authorURL":"-",
-			"version":"1.5.0",
-			"updated":"2022-12-25",
-			"description":"A mod that makes Hinterland's developer console accessible in-game. F1 to open / close the console, type 'help' to get a list of commands.",
-			"modURL":"https://github.com/FINDarkside/TLD-Developer-Console",
-			"downloadURL":"https://github.com/FINDarkside/TLD-Developer-Console/releases/download/1.5.0/DeveloperConsole.dll",
-			"testedon":{
-				"tldversion":"2.06",
-				"mlversion":"0.6.0.0"
-			},
-			"dependencies":[],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"Disable-Camera-Sway",
-			"author":"<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
-			"authorURL":"-",
-			"version":"2.1.0",
-			"updated":"2021-02-02",
-			"description":"Prevents the automatic camera rotation that happens when the player does not move their mouse for some time.",
-			"modURL":"https://github.com/zeobviouslyfakeacc/Disable-Camera-Sway",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/Disable-Camera-Sway/releases/download/2.1.0/Disable-Camera-Sway.dll",
-			"testedon":{
-				"tldversion":"1.97",
-				"mlversion":"0.4.3.0"
-			},
-			"dependencies":[],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"DisableChromaticAberration",
-			"author":"<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
-			"authorURL":"-",
-			"version":"4.0.0",
-			"updated":"2020-06-30",
-			"description":"Completely disables chromatic aberration for all quality modes. Works with existing games.",
-			"modURL":"https://github.com/zeobviouslyfakeacc/Disable-Chromatic-Aberration",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/Disable-Chromatic-Aberration/releases/download/4.0.0/Disable-Chromatic-Aberration.dll",
-			"testedon":{
-				"tldversion":"1.97",
-				"mlversion":"0.4.3.0"
-			},
-			"dependencies":[],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"FasterSearching",
-			"author":"<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
-			"authorURL":"-",
-			"version":"1.2",
-			"updated":"2023-01-11",
-			"description":"Speeds up the search action on containers and makes searching instant for empty containers.",
-			"modURL":"https://github.com/zeobviouslyfakeacc/FasterSearching",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/FasterSearching/releases/download/v1.2/FasterSearching.dll",
-			"testedon":{
-				"tldversion":"2.06",
-				"mlversion":"0.6.0"
-			},
-			"dependencies":[
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.3",
+			"name": "ShorterReadingIntervals",
+			"displayName": "Shorter Reading Intervals",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2018-09-08",
+			"updated": "2021-06-12",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/ShorterReadingIntervals/releases/download/v1.3/ShorterReadingIntervals.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/ShorterReadingIntervals",
+			"description": "A mod that lets you research for shorter amounts of time and lets you interrupt research at any time without losing progress.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
 				"ModSettings"
 			],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"FreeLookInCars",
-			"author":"<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
-			"authorURL":"-",
-			"version":"4.0.0",
-			"updated":"2020-06-30",
-			"description":"Allows looking out of the back window in cars.",
-			"modURL":"https://github.com/zeobviouslyfakeacc/Free-Look-In-Cars",
-			"downloadURL":"https://github.com/zeobviouslyfakeacc/Free-Look-In-Cars/releases/download/4.0.0/Free-Look-In-Cars.dll",
-			"testedon":{
-				"tldversion":"1.97",
-				"mlversion":"0.4.3.0"
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
-			"dependencies":[],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
+			"testedon": {
+				"tldversion": "1.94",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0",
+			"name": "TinCanImprovements",
+			"displayName": "Tin Can Improvements",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2022-10-21",
+			"updated": "2020-10-21",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/TinCanImprovements/releases/download/v1.0/TinCanImprovements.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/TinCanImprovements",
+			"description": "Allows you to craft 4 tin cans into 1 scrap metal, reduces the weight of tin cans to 0.05 kg, fixes a canned food item weight bug.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.94",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.5.0",
+			"name": "DeveloperConsole",
+			"displayName": "",
+			"author": "<a href='https://github.com/FINDarkside' target='_blank'>FINDarkside</a>, <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>, and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+			"previousAuthors": "",
+			"released": "2017-07-01",
+			"updated": "2022-12-25",
+			"downloadURL": "https://github.com/FINDarkside/TLD-Developer-Console/releases/download/1.5.0/DeveloperConsole.dll",
+			"modURL": "https://github.com/FINDarkside/TLD-Developer-Console",
+			"description": "A mod that makes Hinterland's developer console accessible in-game. F1 to open / close the console, type 'help' to get a list of commands.",
+			"tags": "",
+			"categories": [
+				"Cheats"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.06",
+				"mlversion": "0.6.0.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.1.0",
+			"name": "Disable-Camera-Sway",
+			"displayName": "Disable Camera Sway",
+			"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
+			"previousAuthors": "",
+			"released": "2019-01-18",
+			"updated": "2021-02-02",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/Disable-Camera-Sway/releases/download/2.1.0/Disable-Camera-Sway.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/Disable-Camera-Sway",
+			"description": "Prevents the automatic camera rotation that happens when the player does not move their mouse for some time.",
+			"tags": "",
+			"categories": [
+				"Graphics"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "4.0.0",
+			"name": "Disable-Chromatic-Aberration",
+			"displayName": "Disable Chromatic Aberration",
+			"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
+			"previousAuthors": "",
+			"released": "2017-08-28",
+			"updated": "2020-06-30",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/Disable-Chromatic-Aberration/releases/download/4.0.0/Disable-Chromatic-Aberration.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/Disable-Chromatic-Aberration",
+			"description": "Completely disables chromatic aberration for all quality modes. Works with existing games.",
+			"tags": "",
+			"categories": [
+				"Graphics"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.2",
+			"name": "FasterSearching",
+			"displayName": "Faster Searching",
+			"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
+			"previousAuthors": "",
+			"released": "2018-06-10",
+			"updated": "2023-01-11",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/FasterSearching/releases/download/v1.2/FasterSearching.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/FasterSearching",
+			"description": "Speeds up the search action on containers and makes searching instant for empty containers.",
+			"tags": "",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.06",
+				"mlversion": "0.6.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "4.0.0",
+			"name": "FreeLookInCars",
+			"displayName": "Free Look In Cars",
+			"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
+			"previousAuthors": "",
+			"released": "2017-08-12",
+			"updated": "2020-06-30",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/Free-Look-In-Cars/releases/download/4.0.0/Free-Look-In-Cars.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/Free-Look-In-Cars",
+			"description": "Allows looking out of the back window in cars.",
+			"tags": "",
+			"categories": [
+				"Graphics"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
