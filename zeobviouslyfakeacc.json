@@ -517,14 +517,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2",
+			"version": "1.3",
 			"name": "FasterSearching",
 			"displayName": "Faster Searching",
 			"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
 			"previousAuthors": "",
 			"released": "2018-06-10",
-			"updated": "2023-01-11",
-			"downloadURL": "https://github.com/zeobviouslyfakeacc/FasterSearching/releases/download/v1.2/FasterSearching.dll",
+			"updated": "2023-04-04",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/FasterSearching/releases/download/v1.3/FasterSearching.dll",
 			"modURL": "https://github.com/zeobviouslyfakeacc/FasterSearching",
 			"description": "Speeds up the search action on containers and makes searching instant for empty containers.",
 			"tags": "",
@@ -544,7 +544,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.06",
+				"tldversion": "2.10",
 				"mlversion": "0.6.0"
 			},
 			"updater": {
